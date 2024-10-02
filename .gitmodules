@@ -1,0 +1,3 @@
+[submodule "cpyvpn"]
+	path = cpyvpn
+	url = https://gitlab.com/cpvpn/cpyvpn
